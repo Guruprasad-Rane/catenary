@@ -5,4 +5,4 @@ Compile :
 ``gcc catenary.c -o catenary -lm``
 
 Usage :
-``catenary -s <span> -r <rise> -d <divisions> -o <dxfFile>``
+``./catenary -s <span> -r <rise> -d <divisions> -o <dxfFile>``
